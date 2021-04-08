@@ -34,7 +34,7 @@ public class Main extends Application {
         grid.setHgap(10);
         grid.setVgap(10);
         grid.setPadding(new Insets(25, 25, 25, 25));
-        grid.setGridLinesVisible(true);
+        grid.setGridLinesVisible(false);
 
         //titel
         Text scenetitle = new Text("Welkom");
